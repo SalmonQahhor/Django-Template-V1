@@ -17,5 +17,5 @@ pip install --upgrade pip && pip install django environs
 python manage.py makemigrations && python manage.py migrate
 python manage.py createsuperuser
 
-# 5. Run Server
+# 4. Run Server
 python manage.py runserver
